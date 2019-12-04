@@ -1,0 +1,55 @@
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\bin\Debug\Энигма.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\bin\Debug\Энигма.exe
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\bin\Debug\Энигма.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\obj\Debug\Энигма.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\obj\Debug\Энигма.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\obj\Debug\Энигма.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\obj\Debug\Энигма.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\obj\Debug\Энигма.exe
+c:\users\admin\documents\visual studio 2015\Projects\Энигма\Энигма\obj\Debug\Энигма.pdb
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\Энигма.exe.config
+C:\Users\aelomov\Desktop\Энигма\Энигма\obj\Debug\Энигма.exe
+C:\Users\aelomov\Desktop\Энигма\Энигма\obj\Debug\Энигма.pdb
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\Энигма.exe
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\Энигма.pdb
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\mscorlib.dll
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\System.Net.Http.dll
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\System.Net.Http.xml
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\normidna.nlp
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\normnfc.nlp
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\normnfd.nlp
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\normnfkc.nlp
+C:\Users\aelomov\Desktop\Энигма\Энигма\bin\Debug\normnfkd.nlp
+C:\Users\aelomov\Desktop\Энигма\Энигма\obj\Debug\Энигма.csprojResolveAssemblyReference.cache
+C:\Users\aelomov\Desktop\Энигма\Энигма\obj\Debug\Энигма.Form1.resources
+C:\Users\aelomov\Desktop\Энигма\Энигма\obj\Debug\Энигма.Properties.Resources.resources
+C:\Users\aelomov\Desktop\Энигма\Энигма\obj\Debug\Энигма.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\bin\Debug\Энигма.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\bin\Debug\Энигма.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\bin\Debug\Энигма.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\bin\Debug\Энигма.exe.config
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.exe
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.pdb
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\bin\Debug\Энигма.exe
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\bin\Debug\Энигма.pdb
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.Form1.resources
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ломов, Угрюмов 09-641\Энигма\obj\Debug\Энигма.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\bin\Debug\Энигма.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\obj\Debug\Энигма.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\obj\Debug\Энигма.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\bin\Debug\Энигма.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\bin\Debug\Энигма.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\obj\Debug\Энигма.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\obj\Debug\Энигма.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\obj\Debug\Энигма.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Enigma\Энигма\obj\Debug\Энигма.csproj.GenerateResource.Cache
